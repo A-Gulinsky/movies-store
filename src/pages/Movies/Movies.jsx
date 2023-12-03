@@ -51,7 +51,7 @@ const Movies = () => {
         <title>Movies</title>
           <meta name="description" content="Watch the more movies on this service movie"  />
           <meta property="og:url" content="https://movies-store-ten.vercel.app/movies" />
-          <meta property="og:title" content="Movies" />
+          <meta property="og:title" content="Movies Title" />
           <meta property="og:type" content="article" />
           <meta property="og:description" content="Watch the more movies on this service movie" />
           <meta property="og:locale" content="en_US" />
