@@ -49,14 +49,13 @@ const Movies = () => {
     <>
       <Helmet>
         <title>Movies</title>
-          <meta name="description" content="Movies to enjoy your day" />
+          <meta name="description" content="Watch the more movies on this service movie" />
           <meta property="og:url" content="https://movies-store-ten.vercel.app/movies" />
-          <meta property="og:title" content="Title | Movies" />
-          <meta property="og:site_name" content="MOVIES" />
+          <meta property="og:title" content="Movies" />
           <meta property="og:type" content="article" />
-          <meta property="og:description" content="Description: 1. Best Movies Shop in Kiev 2. Best Movies Shop in Kiev 3. Best Movies Shop in Kiev" />
+          <meta property="og:description" content="Watch the more movies on this service movie" />
           <meta property="og:locale" content="en_US" />
-          <meta property="og:image" content="https://img.freepik.com/free-photo/fresh-natural-green-schefflera-arboricola-background_53876-153311.jpg?w=996&t=st=1701474143~exp=1701474743~hmac=50682caf3fdfd630dff9ea401437b10bd57f30234e16b1f53a14a718a5ea0498" />
+          <meta property="og:image" content="https://img.freepik.com/free-photo/breathtaking-view-of-a-field-full-of-sunflowers-and-the-trees_181624-13341.jpg?w=1060&t=st=1701587412~exp=1701588012~hmac=ed5bd73cdceba46f1cf5413c90f4b5da31298406a79330a1c3bd59aa53c11620" />
       </Helmet>
 
       <Container>
