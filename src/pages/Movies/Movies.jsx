@@ -57,7 +57,7 @@ const Movies = () => {
           <meta property="og:description" content="Description: 1. Best Movies Shop in Kiev 2. Best Movies Shop in Kiev 3. Best Movies Shop in Kiev" />
           <meta property="og:locale" content="en_US" />
           <meta property="og:image" content="https://img.freepik.com/free-photo/fresh-natural-green-schefflera-arboricola-background_53876-153311.jpg?w=996&t=st=1701474143~exp=1701474743~hmac=50682caf3fdfd630dff9ea401437b10bd57f30234e16b1f53a14a718a5ea0498" />
-          <link rel="canonical" href="https://movies-store-ten.vercel.app/movies" />
+          <link rel="canonical" href="/movies" />
       </Helmet>
 
       <Container>
